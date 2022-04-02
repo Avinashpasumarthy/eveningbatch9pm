@@ -1,3 +1,10 @@
 #1/bin/bash
 echo "welocome to git training"
 wel
+love you
+bhghjkj
+nhjgfhjbj
+bhfhgfhgvjh
+gjhfhfghgj
+kjjghfgh
+jkhhvfgh
